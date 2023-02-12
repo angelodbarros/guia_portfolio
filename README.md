@@ -2,6 +2,8 @@
 
 Bem vind@ 👋
 
+![giphy](https://user-images.githubusercontent.com/60938249/218314135-c9cd08e5-628d-47ee-ba14-f7864549d9e0.gif)
+
 Criei essa sessão para compilar minha jornada na área de dados, incluindo os projetos e cursos realizados!
 
 ## 📊 Ferramentas
@@ -54,7 +56,7 @@ _Clique nos tópicos acima para acessar cada seção!_
 | Curso de Verão USP - Python para Análise de Dados | Curso com três semanas de duração, que contemplou as principais bibliotecas voltadas à análise de dados (Pandas, Numpy, Matplotlib) e possuiu projeto final envolvendo uma análise preditiva | https://portalservicos.usp.br/iddigital Código da credencial: V3J2-7BAJ-4S7J-TDTJ |
 ***
 
-## R
+##  R
 
 **Habilidades**: Importação, limpeza, manipulação e visualização
 
