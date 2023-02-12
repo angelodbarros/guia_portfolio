@@ -23,18 +23,19 @@ Database: PostgreSQL
 | Projeto | Área | Descrição | Funções |    
 |---|---|---|---|
 | 🚢 [Comércio Exterior do Brasil - respondendo perguntas utilizando SQL](https://github.com/angelodbarros/analise_comex) | Análise de múltiplas tabelas | Analisei registros de importação e exportação brasileiros ao longo da década de 2010, buscando responder 4 perguntas previamente formuladas| _Criação de tabelas e importação de dados, definição de chaves primárias e estrangeiras, criação de tabelas temporárias, cálculos utilizando funções de agregação e window functions, subconsultas utilizando CTEs, joins entre múltiplas tabelas_ |
+|[Codewars](https://www.codewars.com/users/angelodbarros)|| Resolução de desafios diversos utilizando SQL| |
 
 | Curso| Conteúdo | Certificação |
 |---|---|---|
 | Intro to SQL (Kaggle) | Select, From e Where, Group By, Having e Count, Order By, As e With, Joins| https://www.kaggle.com/learn/certification/ngelobarros/intro-to-sql | 
 | Advanced SQL (Kaggle) | Joins e Unions, Window  Functions, Práticas de Consultas Eficientes | https://www.kaggle.com/learn/certification/ngelobarros/advanced-sql |
 | Let's Data | Criação de tabelas, importação de dados, chaves primárias e estrangeiras, junções |  |
-| Introduction to Relational Databases in SQL (DataCamp) |  | https://www.datacamp.com/statement-of-accomplishment/course/861248f155c34ab9a3853e065ff07ac8975c9d36 |
-| Intermediate SQL Queries (DataCamp) |  | https://www.datacamp.com/statement-of-accomplishment/course/5a8b2325b321d1d005f69ac9cb9172b2b131df43 |
-| SQL for Joining Data (DataCamp)|  | https://www.datacamp.com/statement-of-accomplishment/course/b58ee8dcaa29ab034d1fe72100a345d452674610 |
-| Data Manipulation in SQL (DataCamp) |  | https://www.datacamp.com/statement-of-accomplishment/course/0835257ec969e07ad9da0066d2a49d53534377d7 |
+| Introduction to Relational Databases in SQL (DataCamp) | Criação e alteração de tabelas, conversões de tipos de variáveis (casting), adicionando restrições (chaves primárias e estrangeiras), joins | https://www.datacamp.com/statement-of-accomplishment/course/861248f155c34ab9a3853e065ff07ac8975c9d36 |
+| Intermediate SQL Queries (DataCamp) | Seleção de colunas, filtros de linha (where, between, null e is not null, like e not like), funções de agregação, ordenamento e agrupamento (order by, group by) | https://www.datacamp.com/statement-of-accomplishment/course/5a8b2325b321d1d005f69ac9cb9172b2b131df43 |
+| SQL for Joining Data (DataCamp)| Inner join, outer join, cross join, union, intersect, semi e anti-joins, subqueries | https://www.datacamp.com/statement-of-accomplishment/course/b58ee8dcaa29ab034d1fe72100a345d452674610 |
+| Data Manipulation in SQL (DataCamp) | Case statement, subqueries, CTEs, window functions | https://www.datacamp.com/statement-of-accomplishment/course/0835257ec969e07ad9da0066d2a49d53534377d7 |
 | Exploratory Data Analysis in SQL (DataCamp) | Missing values, casting, chaves primárias e estrangeiras, agregação de variáveis numéricas, manipulação de variáveis categóricas e textos, datas se intervalos | https://www.datacamp.com/statement-of-accomplishment/course/169a196a30f10c4b698c158ae66ca302c06264db |
-| PostgreSQL Summary Stats and Window Functions (DataCamp) | Order By, Partition By, Fetch, Rank, funções de agregação (AVG, SUM) | https://www.datacamp.com/statement-of-accomplishment/course/98a7377d2a9830a7e14566e81586f9ca135ad8e9 |
+| PostgreSQL Summary Stats and Window Functions (DataCamp) | Order By, partition by, fetch, rank, funções de agregação (AVG, SUM) | https://www.datacamp.com/statement-of-accomplishment/course/98a7377d2a9830a7e14566e81586f9ca135ad8e9 |
 ***
 
 ## Python
