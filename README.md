@@ -1,6 +1,6 @@
 # 👨‍💻 Portfólio - [Ângelo Donizetti](https://www.linkedin.com/in/angelodonizetti/)
 
-Bem vind@ 👋
+👋 Bem vind@ !
 
 ![giphy](https://user-images.githubusercontent.com/60938249/218314135-c9cd08e5-628d-47ee-ba14-f7864549d9e0.gif)
 
