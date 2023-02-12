@@ -2,8 +2,6 @@
 
 👋 Bem vind@ !
 
-![giphy](https://user-images.githubusercontent.com/60938249/218314135-c9cd08e5-628d-47ee-ba14-f7864549d9e0.gif)
-
 Criei essa sessão para compilar minha jornada na área de dados, incluindo os projetos e cursos realizados!
 
 ## 📊 Ferramentas
